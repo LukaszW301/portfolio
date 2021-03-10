@@ -12,7 +12,7 @@ My name is Łukasz Wierzbicki. I have a Bachelor of Arts in Criminal Justice fro
 ## Courses
 * Tester Oprogramowania - Software Development Academy
 ## Books
-* Testowanie Oprogramowania. Podrecznik dla poczatkujacych. - Rafal Pawlak
+* Testowanie Oprogramowania. Podręcznik dla początkujących. - Rafał Pawlak
 ## My Test Case
 ## My Bug Report
 ## My Projects
