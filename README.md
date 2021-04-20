@@ -10,7 +10,7 @@ My name is Łukasz Wierzbicki. I have a Bachelor of Arts in Criminal Justice fro
 ## Certificates
 * ISTQB Foundation Level
 ## Courses
-* Tester Oprogramowania - Software Development Academy
+* [Tester Oprogramowania - Software Development Academy](https://sdacademy.pl/kursy/kurs-tester-zdalny/)
 ## Books
 * Testowanie Oprogramowania. Podręcznik dla początkujących. - Rafał Pawlak
 * Zawód Tester. Od decyzji do pierwszych kroków w pracy. - Radosław Smilgin
