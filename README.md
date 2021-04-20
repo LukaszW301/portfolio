@@ -16,4 +16,5 @@ My name is Łukasz Wierzbicki. I have a Bachelor of Arts in Criminal Justice fro
 * Zawód Tester. Od decyzji do pierwszych kroków w pracy. - Radosław Smilgin
 ## My Test Case
 ## My Bug Report
+* [Bug Reported for UTest](https://docs.google.com/document/d/1wgLxUK43MExvqoYjC0KdCVISPK_Jz6D5DacsZ7l8niA/edit?usp=sharing)
 ## My Projects
