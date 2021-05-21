@@ -17,5 +17,5 @@ My name is Łukasz Wierzbicki. I have a Bachelor of Arts in Criminal Justice fro
 ## My Test Case
 * [Test Case Example](https://docs.google.com/spreadsheets/d/1m-qi12ehwTZVoRI3Y20ECEypfW0hAcsPncVFLEDA38Y/edit?usp=sharing)
 ## My Bug Report
-* [Bug Reported for UTest](https://docs.google.com/document/d/1wgLxUK43MExvqoYjC0KdCVISPK_Jz6D5DacsZ7l8niA/edit?usp=sharing)
+* [Bugs Reported for UTest](https://docs.google.com/document/d/1wgLxUK43MExvqoYjC0KdCVISPK_Jz6D5DacsZ7l8niA/edit?usp=sharing)
 ## My Projects
